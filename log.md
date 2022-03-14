@@ -16,3 +16,11 @@
 **Thoughts:** Initial design came together quickly. Need to better understand how to do visual design outside of VSCode. Struggling with justify-content: space-between on book cover images.
 
 **Link to work:** [Best Books Project JS](https://github.com/RyanOD/Week-8/blob/master/best-books.js)
+
+### Day 3: March 13, 2022
+
+**Today's Progress**: Added logo to NYT API project. Adjusted the positioning of the form labels. Connected to random user API for home page "reviews" section.
+
+**Thoughts:** It is getting so, so easy to work with APIs. Feeling good about such a new skill.
+
+**Link to work:** [Best Books Project JS](https://github.com/RyanOD/Week-8/blob/master/best-books.js)
